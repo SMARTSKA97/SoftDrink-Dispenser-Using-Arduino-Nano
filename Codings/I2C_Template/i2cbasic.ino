@@ -18,8 +18,6 @@ void setup() {
   display.begin(SSD1306_SWITCHCAPVCC, OLED_ADDR);
   display.clearDisplay();
   display.display();
-
-  
 }
 
 void loop() {
