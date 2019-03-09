@@ -1,8 +1,10 @@
 # SoftDrink-Dispenser-Using-Arduino-Nano
 This is the final upgraded project for our BSC
 
-### Unfinished
+### ~~Unfinished~~ Updated
 
-### not updated because of my laziness
+### not updated because of my ~~laziness~~ unavailable of time
 
-## stay tuned
+#### LOL!!!
+
+## stay tuned for more updates
