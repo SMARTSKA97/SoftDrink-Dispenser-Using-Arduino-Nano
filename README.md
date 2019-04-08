@@ -11,4 +11,8 @@ Architecture Contains all the major item's connections and layout for our projec
 
 Coding contains all the programs one by one to perfection... Note: can be made a single but you know i'm <b>LAZY</b>
 
+Documentations contain all the techniques adopted and documented in both in paper and digital.
+
+Images contain all the images we needed and project propagation images...
+
 ## stay tuned for more updates
