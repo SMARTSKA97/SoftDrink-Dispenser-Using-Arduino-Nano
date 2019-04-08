@@ -31,5 +31,5 @@ e. RULER
 f. PENCILS AND ERASERS 
 g. CUTTERS 
  
- 
+ <>
  <B>And of course SOFT DRINK </B>
