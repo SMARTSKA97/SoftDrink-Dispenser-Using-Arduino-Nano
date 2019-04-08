@@ -15,4 +15,6 @@ Documentations contain all the techniques adopted and documented in both in pape
 
 Images contain all the images we needed and project propagation images...
 
+Requirements contain all the materials required by us...
+
 ## stay tuned for more updates
