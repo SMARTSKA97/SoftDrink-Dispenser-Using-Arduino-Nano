@@ -1,15 +1,35 @@
 ### Requirements for the Project
-
-1. Arduino Nano
-2. USB Adapter for Arduino Nano
-3. Male to Female Jumper Wire - 10
-4. Male to Male Jumper Wire - 10
-5. Tactile Button Switch - 3
-6. Air Pump
-7. I2C OLED 0.96 inch 128x64 display
-
-### Decoration Utility
-1. Pipes
-2. Gluegun
-3. Bottle
+<B>HARDWARE REQUIREMENTS</B>
+1. ARDUINO NANO 
+2. USB ADAPTER FOR ARDUINO NANO 
+3. MALE TO FEMALE JUMPER WIRE – 10 
+4. MALE TO MALE JUMPER WIRE – 10 
+5. TECTILE BUTTON SWITCH – 3 
+6. AIR PUMP-1 
+7. I2C OLED DISPLAY 0.96 INCH 128x64 
+8. PIPES 
+9. BOTTLE 
+10. RESISTORS 
+ 
+<B>SOFTWARE REQUIREMENTS</B> 
+1. ARDUINO IDE FOR CODING 
+2. CIRCUIT DIAGRAM FOR CIRCUIT DRAWING 
+ 
+<B>MISCELLANEOUS REQUIREMENTS</B> 
+<H6>A. HARDWARE TOOLS:</H6> 
+a. SOLDERING IRON 
+b. SOLDER 
+c. WIRES 
+d. WIRECUTTERS 
+e. BREADBOARD 
+<H6>B. MODELLING TOOLS:</H6>
+a. CARDBOARD
+b. SCISSORS
+c. GUM 
+d. CELLOTAPE
+e. RULER 
+f. PENCILS AND ERASERS 
+g. CUTTERS 
+ 
+ 
  <B>And of course SOFT DRINK </B>
